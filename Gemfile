@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem 'jekyll-paginate'
+gem 'bootstrap', '~> 4.0.0'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
